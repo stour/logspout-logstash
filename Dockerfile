@@ -1,0 +1,1 @@
+FROM stour/logspout:latest
